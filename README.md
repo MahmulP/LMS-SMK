@@ -1,7 +1,7 @@
 
-# Laravel LMS SMAN 12
+# Laravel LMS PTIK
 
-Learning Management System untuk SMAN 12 Antang yang dibuat menggunakan framework Laravel
+Learning Management System untuk tugas UAS LMS SMK yang dibuat menggunakan framework Laravel
 
 
 ## Run Locally
@@ -9,13 +9,13 @@ Learning Management System untuk SMAN 12 Antang yang dibuat menggunakan framewor
 Clone the project
 
 ```bash
-  git clone https://github.com/alwijein/laravel_lms_sman12.git
+  git clone https://github.com/MahmulP/LMS-SMK.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd laravel_lms_sman12
+  cd LMS-SMK
 ```
 
 Install dependencies
@@ -54,7 +54,7 @@ Start the server
 
 | Name | Email     | Password                |
 | :-------- | :------- | :------------------------- |
-| `admin` | `admin@mail.io` | admin123 |
+| `admin` | `admin@gmail.com` | mahmul123 |
 
 
 ## Tech Stack
@@ -66,5 +66,5 @@ Start the server
 
 ## Feedback
 
-If you have any feedback, please reach out to us at alwijein@gmail.com
+If you have any feedback, please reach out to us at mahmulpratama16@gmail.com
 
